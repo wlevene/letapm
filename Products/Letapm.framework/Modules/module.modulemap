@@ -1,0 +1,6 @@
+framework module Letapm {
+  umbrella header "Letapm.h"
+
+  export *
+  module * { export * }
+}
